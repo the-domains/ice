@@ -1,0 +1,28 @@
+name: ice
+favicon: null
+layout_spectrum: 0.9471592730842531
+typography_spectrum: 0.538736515911296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4190313979052007
+  lightness: 0.9320237992797047
+  saturation: 0.9565605772659183
+  rhythmicContrast: 0.4483639854006469
+purpose: []
